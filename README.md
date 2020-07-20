@@ -34,7 +34,7 @@ Real-time detection of Masked/Un-masked faces is done using OpenCV and Python. T
 
 ### Executing program
 
-There are 4 phases of this program, run each of them.
+There are 3 phases of this program, run each of them.
 
 * Train a Deep Convolutional Neural Network to distinguish between Masked and Non-Masked faces
 
