@@ -7,6 +7,7 @@ Easily detects whether you are wearing a Face Mask or not. Binary Classification
 
 Real-time detection of Masked/Un-masked faces is done using OpenCV and Python. The detected area having a confidence value above 50% was given to the Fully Connected CNN for Classification. Need some more fine-tuning in Masked Face Detection as the artificially generated data was less.
 
+![] (1.png)
 ## Getting Started
 
 ### Dependencies
